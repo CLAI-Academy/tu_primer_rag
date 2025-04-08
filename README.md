@@ -75,10 +75,10 @@ User Query → Embedding → Retrieval → Context-Enhanced Prompt → LLM → R
 ## 📊 Visualization
 
 ETL Pipeline:
-![ETL Pipeline](../img/ETL.png)
+![ETL Pipeline](./img/ETL.png)
 
 Inference Pipeline:
-![Inference Pipeline](../img/Inference.png)
+![Inference Pipeline](./img/Inference.png)
 
 ## 🚀 Getting Started
 
