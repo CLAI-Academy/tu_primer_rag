@@ -1,0 +1,7 @@
+transformers
+openai
+langchain_huggingface
+docling
+qdrant-client
+langchain-qdrant
+langchain-cohere
