@@ -1,0 +1,18 @@
+env
+.env
+dist
+build
+node_modules
+package-lock.json
+yarn.lock
+.idea
+.vscode 
+__pycache__
+.ipynb_checkpoints
+*.egg-info
+*.pyc
+.venv
+.venv/
+venv
+
+# Ignore the following files/folders
